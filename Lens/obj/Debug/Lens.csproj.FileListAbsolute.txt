@@ -1,0 +1,240 @@
+C:\Users\Vintall\Desktop\Lens\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v2\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v2\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v2\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v2\Lens\obj\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\bin\Debug\Lens.exe.config
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\bin\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\bin\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.MainForm.resources
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.Properties.Resources.resources
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v3\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v4\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v4\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v4\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v4\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v5\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v5\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v5\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v5\Lens\obj\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\bin\Debug\Lens.exe.config
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\bin\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\bin\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.MainForm.resources
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.Properties.Resources.resources
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v6\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v8\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v8\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v8\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v8\Lens\obj\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\bin\Debug\Lens.exe.config
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\bin\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\bin\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.MainForm.resources
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.Properties.Resources.resources
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v8\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v10\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v10\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v10\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v10\Lens\obj\Debug\Lens.ObjectEditor.resources
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\bin\Debug\Lens.exe.config
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\bin\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\bin\Debug\Lens.pdb
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.MainForm.resources
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.ObjectEditor.resources
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.Properties.Resources.resources
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.exe
+G:\Programming\Прога\HOME\Lens\Lens_v12\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v13\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v13\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v13\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v13\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v14\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v14\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v14\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v14\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v16\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v16\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v16\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v16\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v17\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v17\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v17\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v17\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.exe
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.exe
+D:\Programming\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.exe
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.exe
+G:\Programming\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Cool_ progects\Lens_v2_1\Lens\obj\Debug\Lens.Forms.SaveForm.resources
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.exe
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.LoadForm.resources
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.SaveForm.resources
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csproj.CoreCompileInputs.cache
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.exe
+G:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.exe
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.LoadForm.resources
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.SaveForm.resources
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.exe
+D:\Programming\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.LoadForm.resources
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.SaveForm.resources
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.exe
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.pdb
+C:\Users\Vintall\Desktop\Cool_ progects1\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\bin\Debug\Lens.exe.config
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\bin\Debug\Lens.exe
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\bin\Debug\Lens.pdb
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.csprojAssemblyReference.cache
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.LoadForm.resources
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.MainForm.resources
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.ObjectEditor.resources
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.SaveForm.resources
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.Properties.Resources.resources
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.csproj.GenerateResource.cache
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.exe
+H:\IT\Mine\.NET_C#\WinForms\Lens_v2_1\Lens\obj\Debug\Lens.pdb
