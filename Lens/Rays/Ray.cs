@@ -10,7 +10,7 @@ namespace Lens
     public class Ray
     {
         PointF pos;
-        PointF vec;
+        PointF vec; //_
         PointF last_pos;
         public Pen pen = new Pen(Color.Orange);
         Color color;

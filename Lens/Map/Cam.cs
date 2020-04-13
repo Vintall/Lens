@@ -13,7 +13,7 @@ namespace Lens
         PointF pos; // Позиция камеры
         PointF speed_move; //Скорость перемещения
         float speed_scale; //Скорость перемещения
-        float scale; //Увеличение
+        float scale; //Увеличение -
 
         public Cam(PointF pos)
         {
